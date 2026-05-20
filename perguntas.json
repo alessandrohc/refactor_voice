@@ -1,0 +1,71 @@
+{
+  "1_ingles_e_comunicacao": [
+    "Can you share an example of when you had to communicate complex technical concepts in English?",
+    "How do you ensure effective communication in a remote, multicultural environment?",
+    "What strategies do you use to clarify requirements when working with non-technical stakeholders in English?",
+    "Can you give an example of when miscommunication occurred in a remote setting and how you resolved it?"
+  ],
+  "2_experiencia_historico": [
+    "Can you give us a high-level overview of your career journey and the key milestones?",
+    "What’s a recent project you worked on that you're particularly proud of, and what was your role?",
+    "Can you describe a time when you had to work outside your technical comfort zone?",
+    "What technologies have you been working with most recently, and why?",
+    "How do you prioritize between technical excellence and delivering business value?"
+  ],
+  "3_perguntas_tecnicas": [
+    "Which emerging technologies do you believe will have the biggest impact on software development in the next three years?",
+    "How do you incorporate AI tools into your workflow?",
+    "Tell me about a time when you had to refactor a legacy system. How did you approach it?",
+    "How do you balance performance optimization with maintaining clean, scalable code?",
+    "What strategies do you use to stay up to date with evolving best practices in your tech stack?"
+  ],
+  "4_agile_colaboracao": [
+    "How do you handle rapidly changing requirements in an Agile environment?",
+    "Tell me about a sprint where things didn’t go as planned. What happened, and how did your team handle it?",
+    "How do you ensure that technical debt doesn’t accumulate in an Agile workflow?",
+    "What’s your approach to breaking down complex technical tasks in sprint planning?",
+    "What role do you usually take during retrospectives, and how do you contribute to continuous improvement?"
+  ],
+  "5_cultura_trabalho_equipe": [
+    "How do you approach integrating into a new team's culture, especially in international settings?",
+    "Can you share a time when you had to navigate cultural differences within a team?",
+    "How do you foster a sense of collaboration in remote or hybrid work environments?",
+    "What’s your approach to handling disagreements in technical discussions?",
+    "Can you give an example of when you had to advocate for a technical decision and convince your team?"
+  ],
+  "6_lideranca_iniciativa": [
+    "Tell me about a time when you took ownership of a project beyond your initial responsibilities.",
+    "How do you mentor junior developers or help upskill team members?",
+    "Can you describe a situation where you had to influence a decision without being in a leadership position?",
+    "What’s your philosophy on knowledge sharing within teams?",
+    "How do you handle situations where you disagree with a technical decision made by leadership?"
+  ],
+  "7_adaptacao_aprendizado": [
+    "How do you approach learning a new framework or technology under tight deadlines?",
+    "Can you give an example of when you had to pivot your approach due to unforeseen challenges?",
+    "How do you maintain productivity and motivation in uncertain or high-pressure environments?",
+    "Tell me about a time when you had to quickly adapt to a completely different tech stack.",
+    "How do you assess whether a new technology is worth integrating into your workflow?"
+  ],
+  "8_foco_cliente_solucao": [
+    "How do you ensure that the software you build aligns with business objectives?",
+    "Can you describe a time when you had to advocate for the user experience in a technical decision?",
+    "Tell me about a time when you had to push back on a client or stakeholder request due to technical limitations.",
+    "How do you balance meeting business requirements while maintaining system scalability?",
+    "What’s your approach to debugging and troubleshooting production issues efficiently?"
+  ],
+  "9_trabalho_remoto": [
+    "How do you structure your workday to stay productive while working remotely?",
+    "What strategies do you use to manage async communication effectively?",
+    "Can you give an example of how you handled working across multiple time zones?",
+    "How do you set boundaries to maintain a healthy work-life balance in a remote setting?",
+    "How do you ensure visibility in a fully remote team without over-communicating?"
+  ],
+  "10_futuro_carreira": [
+    "What are your long-term career aspirations, and how does this role align with them?",
+    "What skills are you currently focused on improving?",
+    "Where do you see the future of software development heading, and how do you plan to stay relevant?",
+    "What’s one area of technology or business that you’re curious to learn more about?",
+    "What kind of projects or challenges excite you the most?"
+  ]
+}

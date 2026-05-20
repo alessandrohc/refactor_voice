@@ -1,0 +1,6 @@
+SpeechRecognition
+pyaudio
+google-generativeai
+python-dotenv
+keyboard
+rich
